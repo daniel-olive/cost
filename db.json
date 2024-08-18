@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "id": "baa3",
+      "name": "Rede de Internet Super Mercado Santa Rita",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "9206",
+      "name": "Infra da Rede internet da ZARRAP",
+      "budget": "5.000",
+      "category": {
+        "id": "5",
+        "name": "Construção"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "infra"
+    },
+    {
+      "id": "2",
+      "name": "desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "design"
+    },
+    {
+      "id": "4",
+      "name": "planejamento"
+    },
+    {
+      "id": "5",
+      "name": "Construção"
+    }
+  ]
+}
